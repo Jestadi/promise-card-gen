@@ -34,7 +34,13 @@ verse_num = dict({
     "Deuteronomy 33:12":"The beloved of the Lord shall dwell in safety by Him, who shelters him all the day long; and He shall dwell between His shoulders.",
     "Luke 12:31":"But seek the kingdom of God, and all these things shall be added to you.",
     "Phillipians 4:13":"I can do all things through Christ who strengthens me.",
-    "1 Corinthians 2:9":"Eye has not seen, nor ear heard, nor have entered into the heart of man, the things which God has prepared for those who love Him."
+    "1 Corinthians 2:9":"Eye has not seen, nor ear heard, nor have entered into the heart of man, the things which God has prepared for those who love Him.",
+    "Ephesians 3:20":"Now to Him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us, to Him be glory in the church by Christ Jesus to all generations.",
+    "Isaiah 58:7,8":"Is it not to share your bread with the hungry, and that you bring to your house the poor who are cast out; when you see the naked, that you cover him, and not hide from your own flesh: Then your light shall break forth like the morning, your healing shall spring forth speedily, and your righteousness shall go before you, the glory of the Lord shall be your rear guard.",
+    "Habakkuk 3:19":"The Lord God is my strength; He will make my feet like deer's feet, and He will make me walk on my high hills",
+    "Psalm 86:7":"In the day of my trouble I will call upon You, for you will answer me.",
+    "Ephesians 6:11":"Put on the whole armor of God, that you may be able to stand against the wiles of the devil.",
+    "1 John 4:18":"There is no fear in love; but perfect love casts out fear, because fear involves torment. But he who fears has not been made perfect in love. "
     })
 
 selected_app_mode = st.session_state.get('app_mode')
